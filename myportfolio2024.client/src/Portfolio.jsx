@@ -7,7 +7,7 @@ const Portfolio = () => {
             <header>
                 <div className="container">
                     <h1>Velpula Chiranjeevi</h1>
-                    <p className="tagline">>NET Developer </p>
+                    <p className="tagline"> DOT NET Developer </p>
                 </div>
             </header>
             <nav>
