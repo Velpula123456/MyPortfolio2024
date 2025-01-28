@@ -1,0 +1,6 @@
+@MyPortfolio2024.Server_HostAddress = http://localhost:5017
+
+GET {{MyPortfolio2024.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
